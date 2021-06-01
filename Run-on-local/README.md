@@ -1,5 +1,5 @@
 This folder contains the application code and the airflow DAG file which will orchestrate the application.
-Prerequisite :
+## Prerequisite :
 * We must have SPARK_HOME environment ready
 * Airflow cluster running and its UI is appearing as it should be.
 
@@ -11,5 +11,5 @@ Screenshot attached:
 I have used spark, keeping in mind of the scalability. The current code can be reused for big dataset. In that case Cluster size, cluster configuration,  along with the Spark-Submit parameters in the DAG file to be changed according to the size of the input data)
 In addition to these, you must change the input and out put location of the application which will be used for taking input files and resultant output dataset.
 
-Further Improvement:
+## Further improvement:
 Based on the time limitation, I have hard coded stuffs in the application and DAG files. This can be a point pf improvement.
