@@ -9,3 +9,7 @@ In order to run this section of the code,
 Feed the EMR cluster id: 
 ![Screenshot 2021-06-01 at 01 51 06](https://user-images.githubusercontent.com/17614336/120252248-df6a8c80-c27b-11eb-8785-e94ceafec361.png)
 
+## Further improvement:
+
+* Can be made less hard coded.
+* Can add the code to create EMR cluster and terminate when finished execution.
