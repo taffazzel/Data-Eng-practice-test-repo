@@ -12,4 +12,4 @@ I have used spark, keeping in mind of the scalability. The current code can be r
 In addition to these, you must change the input and out put location of the application which will be used for taking input files and resultant output dataset.
 
 ## Further improvement:
-Based on the time limitation, I have hard coded stuffs in the application and DAG files. This can be a point pf improvement.
+Based on the time limitation, I have hard coded stuffs in the application and DAG files. This can be a point of improvement.
